@@ -1,2 +1,4 @@
 # HelloWorld
-still getting usewd to GIT
+still getting used to GIT
+
+getting there
